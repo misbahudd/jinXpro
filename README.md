@@ -1,5 +1,6 @@
 # jinXpro
-I'm a student, developer, and designer!!
+
+### I'm a student, developer, and designer!!
 
 🔭 I just launched my first course: Become A VS Code SuperHero!!
 
